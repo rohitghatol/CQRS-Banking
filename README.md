@@ -1,2 +1,4 @@
-# CQRS-Bank-Sample
+# CQRS-Banking
+
 Banking Application using CQRS
+
